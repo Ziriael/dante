@@ -1,0 +1,92 @@
+    _______________________
+   |                       |
+   |  IN QUESTO ARCHIVIO:  |
+   |_______________________|
+
+
+TITOLO: Vita nuova
+AUTORE: Dante Alighieri
+  NOTE:
+
+  TRATTO DA: Dante Alighieri - tutte le opere
+             Edizioni G. Barbera
+             Firenze, 1965
+CODICE ISBN:
+
+EDIZIONE ELETTRONICA DEL: 14 Maggio 1995
+
+INDICE DI AFFIDABILITA': 1
+1: prime edizioni
+2: affidabilità media (edizione normale)
+3: affidabilità ottima (edizione critica)
+4: testo codificato in SGML
+
+ALLA EDIZIONE ELETTRONICA HANNO CONTRIBUITO:
+
+Luca Tringali
+
+                 __
+                /  \
+               / /\ \
+              /\ \/ /___
+             / /\  ____/
+            / / /\ \
+ _     _  __\ \/ /\ \__  ____
+| |   | ||  _\  /|/\/__||  _ \
+| |   | || |_)\ \/ /__  | |_) )
+| |   | ||  _ <\  / __| |    /
+| |__ | || |_) |\/ |___ | |\ \
+|____||_||_____/ |_____||_| \_\
+     /\   \ \
+     \ \   \ \   LIBER LIBER
+      \ \  /\/  associazione
+       \ \/ /  culturale
+        \  /  senza fini
+         \/  di lucro
+
+     _____________________
+    |                     |
+    |  PROGETTO  MANUZIO  |
+    |_____________________|
+
+
+Il "Progetto Manuzio" è una iniziativa dell'associazione culturale "Liber Liber". Aperto a chiunque voglia collaborare, si pone come scopo la pubblicazione e la diffusione gratuita di opere letterarie in formato elettronico.
+
+Il testo allegato è in ASCII esteso "ISO latin 1", utilizzabile da qualsiasi computer (Amiga, IBM e compatibili, Macintosh, ecc., eventualmente, in seguito a semplici conversioni del set di caratteri). Per esprimere stili particolari, come il neretto o il corsivo, si è ricorso al seguente codice e-text:
+
+     corsivo: ~abcdef~
+sottilineato: _abcdef_
+     neretto: **abcdef**
+
+Il codice di **ritorno a capo** è composto dal carattere LF (line feed).
+
+N.B. Al line feed (LF) ricorrono i computer basati su sistema operativo Unix e Amiga; i computer Macintosh utilizzano il carattere CR (carriage return); i computer MS-DOS usano la coppia CR + LF.
+
+ ___________________________________________________________________
+|                                                                   |
+| I testi pubblicati dall'associazione "Liber Liber" possono essere |
+| copiati e diffusi GRATUITAMENTE. Si prega di lasciare gli archivi |
+| ed i file contenuti in essi nel loro formato originale.           |
+|___________________________________________________________________|
+
+Secondo il principio dello shareware, se questo "libro elettronico" è stato di tuo gradimento o se condividi le finalità del progetto Manuzio, invia una donazione a Liber Liber in una di queste modalità:
+- assegno bancario
+- bonifico bancario sul conto numero: 05584 03217 00559 (Banca Popolare
+  di Milano 328 - Agenzia n. 17 di Roma) intestato a Liber Liber
+- vaglia postale
+- versamento su conto corrente postale n.: 73225005 (causale: donazione a favore del progetto Manuzio)
+
+Il tutto intestato a:
+  Liber Liber
+  Via Cina, 40
+  00144 Roma
+  Italia
+
+I suggerimenti, come le richieste di informazioni, le correzioni ai testi e quant'altro, si prega di inviarli all'indirizzo riportato qui di seguito:
+
+Liber Liber
+via Cina, 40
+00144 Roma
+Italia
+Tel. +39 (6) 52.20.05.05
+e-mail (Internet): mc3363@mclink.it
